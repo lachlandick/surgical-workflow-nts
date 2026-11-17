@@ -4,7 +4,7 @@ Analysis code accompanying:
 
 > Dick L, et al. *Surgical workflow patterns as indicators of non-technical performance.* 2026
 
-Code archive DOI: [Zenodo DOI]
+Code archive DOI: 10.5281/zenodo.24318754
 
 ## Overview
 
@@ -101,7 +101,7 @@ The script also prints the performance summary, the number of patterns selected 
 
 If you use this code, please cite the paper above and the code archive:
 
-> Dick L. surgical.workflow.nts (Version v1.0). Zenodo. [Zenodo DOI]
+> Dick L. surgical.workflow.nts (Version v1.0). Zenodo. 10.5281/zenodo.24318754
 
 ## Contact
 
